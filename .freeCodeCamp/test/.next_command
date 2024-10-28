@@ -109,3 +109,4 @@ chmod +x bingo.sh
 which bash
 ./bingo.sh
 printenv
+echo $LANG
