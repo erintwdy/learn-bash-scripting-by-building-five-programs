@@ -143,3 +143,4 @@ help let
 touch fortune.sh
 chmod +x fortune.sh
 which bash
+./fortune.sh
