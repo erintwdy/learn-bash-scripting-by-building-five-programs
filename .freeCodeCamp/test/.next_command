@@ -66,3 +66,4 @@ help if
 ./countdown.sh arg1
 cd ~/project
 ./countdown.sh arg2
+./countdown.sh 4
